@@ -1,2 +1,2 @@
 # FloodMe
-OneVsOne
+OneVsOne game
